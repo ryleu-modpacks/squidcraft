@@ -55,11 +55,6 @@ hash = "69b8cd4038ddc988273f118f4cf27d1bc6cb092b6c488d60bc419aafdc041e79"
 metafile = true
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "911dde9fd3bcff988b7ae9e217eafef284e8564a6fe512b5812d0faf0fe10409"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0dc6b099b0bdf70ce41e2ed30e70d6b5cba93d127d6b3f9e455566c4c1b65ff2"
 metafile = true
@@ -192,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "64ceb9fd4d0386fd91c8fe78c48ee69098f94a9cce18135e5491d104314448c9"
 metafile = true
 
 [[files]]
@@ -655,6 +655,11 @@ hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "2b61a02cf1a6887cd9eaa131f21d8a4e397ce056e8851e74842cad695e6d9366"
 metafile = true
@@ -720,6 +725,11 @@ hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5f20976f8cdd99d522ad1132e4dab83b17bc3e7dcae7e40c87e90650b7a4d010"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
@@ -772,11 +782,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
-metafile = true
-
-[[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "5a080be23ddba8e21f26a9247cea8a48f767ef844b61fcdab87f9622d148d493"
 metafile = true
 
 [[files]]
