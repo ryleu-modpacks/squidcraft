@@ -1,0 +1,13 @@
+name = "Jesus Roulette"
+filename = "jesus-roulette-1.0.1-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIhCfo35/versions/GZMmIvnj/jesus-roulette-1.0.1-1.21.x.jar"
+hash-format = "sha512"
+hash = "7c0fa8efa88405fe960cc9a129c91a3b6b42ddd42370c94e40941f92d7e995cbcbc49bf764111cb5954007e4af01b147f5c8f049110b5418496fb27cb2912eff"
+
+[update]
+[update.modrinth]
+mod-id = "lIhCfo35"
+version = "GZMmIvnj"

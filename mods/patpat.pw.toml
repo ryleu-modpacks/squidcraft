@@ -1,0 +1,13 @@
+name = "PatPat"
+filename = "PatPat-1.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dw7LChq9/versions/2OYa1buS/PatPat-1.1.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "19abaa3769294e6a0b4ed5a6c0b21a2c00d6a0bcfc356ba0d47376cfbba950b23ebd1a9fd717ed8dcad703573e0e6f7399ea5dc55fa090ced97eaec1696a276f"
+
+[update]
+[update.modrinth]
+mod-id = "dw7LChq9"
+version = "2OYa1buS"

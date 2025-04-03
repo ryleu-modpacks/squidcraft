@@ -1,0 +1,13 @@
+name = "Eager Beavers"
+filename = "beavermod-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QNh0xawR/versions/N286kfmQ/beavermod-1.3.0.jar"
+hash-format = "sha512"
+hash = "603a5e3b4a2408476cca29493462e429dd8d803f400c892a0e378a4ad3decd4d5653832c68f511d46b870ae3d48b8eec1ae48dc886493bcd6ea16cec69c53d07"
+
+[update]
+[update.modrinth]
+mod-id = "QNh0xawR"
+version = "N286kfmQ"

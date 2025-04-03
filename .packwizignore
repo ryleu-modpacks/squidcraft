@@ -1,0 +1,8 @@
+.direnv/
+.vscode/
+.envrc
+.gitignore
+flake.lock
+flake.nix
+README.md
+LICENSE

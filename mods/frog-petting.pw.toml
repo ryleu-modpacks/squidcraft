@@ -1,0 +1,13 @@
+name = "Pet Frogs and More!"
+filename = "frog-petting-1.1-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gDxQ0Xdq/versions/pWbXheN8/frog-petting-1.1-1.21.jar"
+hash-format = "sha512"
+hash = "7b826b6d63b7ce9cccfdb4d0b217ddec98db27227de73c911ebf832782b77a8bd01654aa06dcf3da382d94b1568a439fe478d8fe4be680e97a5bfa61c01c1ee1"
+
+[update]
+[update.modrinth]
+mod-id = "gDxQ0Xdq"
+version = "pWbXheN8"

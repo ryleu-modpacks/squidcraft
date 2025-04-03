@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Eternal Starlight"
+filename = "farmers-cutting-eternal-starlight-1.21.1-2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuIiD6eS/versions/L92RkolM/farmers-cutting-eternal-starlight-1.21.1-2.0-fabric.jar"
+hash-format = "sha512"
+hash = "f43299b1f79adec1e9b3f460df97175710d009f3851ec7b8234d305fd9be8def059fbe458175c2dfb5a7ac509305d5f9c3d30c4d6efafa2382a0c163b0912861"
+
+[update]
+[update.modrinth]
+mod-id = "PuIiD6eS"
+version = "L92RkolM"

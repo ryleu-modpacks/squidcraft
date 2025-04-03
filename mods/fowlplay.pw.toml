@@ -1,0 +1,13 @@
+name = "Fowl Play"
+filename = "fowlplay-1.0.0-beta.7+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpXfePbg/versions/iX8UVmAG/fowlplay-1.0.0-beta.7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3e60ed6259bd10480180c44ed3a77b9f6a0b7a73ab122299f42152a15ca27352eaf95ec1538419463064211785849c465b32e573b513fd00ec2d45ba56af2eda"
+
+[update]
+[update.modrinth]
+mod-id = "WpXfePbg"
+version = "iX8UVmAG"

@@ -1,0 +1,13 @@
+name = "Runes"
+filename = "runes-1.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/RZ1jpzsQ/runes-1.1.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c765503280473764460ef1ed950a11060947cef935c26c12841e7088979bdf3114cd552ee59f9d8bad75f02775fec756c06033513de73393d50c55404069d1a8"
+
+[update]
+[update.modrinth]
+mod-id = "lP9Yrr1E"
+version = "RZ1jpzsQ"

@@ -1,0 +1,13 @@
+name = "Chested Companions"
+filename = "chestedcompanions-1.3.1-1.21-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yCDkPh3W/versions/6oidzJyY/chestedcompanions-1.3.1-1.21-FABRIC.jar"
+hash-format = "sha512"
+hash = "42b09727800228120c3c41039001741690938c313a6dc8e01877d3818d9f35975d34d0caad2411743d3b47c3a970f06ffe57e5bff7636f35cf7d50582d853a80"
+
+[update]
+[update.modrinth]
+mod-id = "yCDkPh3W"
+version = "6oidzJyY"

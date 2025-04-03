@@ -1,0 +1,13 @@
+name = "Snowy Sniffer"
+filename = "snowysniffer-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DbtUGm3z/versions/wvdDnNLQ/snowysniffer-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "b252e319261198547b98c5682d04bad48abdf4ee66bb85ea45a29671e95507f5ac7ad9502d0625554eb461545b1dc7609d0094a13bd8f24f9aef6873fca09593"
+
+[update]
+[update.modrinth]
+mod-id = "DbtUGm3z"
+version = "wvdDnNLQ"

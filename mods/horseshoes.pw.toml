@@ -1,0 +1,13 @@
+name = "Horseshoes"
+filename = "horseshoes-fabric-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tyg1IZwj/versions/N6Ifw3en/horseshoes-fabric-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "859f98b42d0a961835c22f785bc97f8b48b9818cef21c9044cbf3cd7ce8c2694e06fcc61175e6d156a4541fb63215e6010a4c84960906dd755e9b84610aaefc1"
+
+[update]
+[update.modrinth]
+mod-id = "tyg1IZwj"
+version = "N6Ifw3en"

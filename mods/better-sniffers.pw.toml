@@ -1,0 +1,13 @@
+name = "Better Sniffers"
+filename = "better-sniffers-4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CPzAGS06/versions/PZlwTBrw/better-sniffers-4.5.jar"
+hash-format = "sha512"
+hash = "1b96310d253e6eab1fea966258393d65aa70b335d356e1ce82eb74d0c7eeb726b6558611839152ea806cf852bea1ce6c8f2b013319495433be12e58d892f5ac4"
+
+[update]
+[update.modrinth]
+mod-id = "CPzAGS06"
+version = "PZlwTBrw"

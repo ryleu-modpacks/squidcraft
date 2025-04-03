@@ -1,0 +1,13 @@
+name = "Uranus"
+filename = "uranus-2.3-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Acxy864/versions/4mfB8LLj/uranus-2.3-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "2ac89a000083e8bd356c23a4d01d330f6a3021463ee04ce9cb41bf6e9c274e6cdadf67c6709692a98830889e43e18f2fe8d6f8315b4ec0cf13180668ab5fbfe8"
+
+[update]
+[update.modrinth]
+mod-id = "3Acxy864"
+version = "4mfB8LLj"

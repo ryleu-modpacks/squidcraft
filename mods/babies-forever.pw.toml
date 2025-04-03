@@ -1,0 +1,13 @@
+name = "Babies Forever"
+filename = "babiesforever-1.2.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/X0sywFsk/versions/8K7KxJNo/babiesforever-1.2.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "36fd513edb95c5e9e180fd011a738b7cb08d0dbf519f156c4e57b6c8cf82fb233c7a8c0aa49c5995634ded29dd74368bfedb3239129b871a8537bd8db0cc10f4"
+
+[update]
+[update.modrinth]
+mod-id = "X0sywFsk"
+version = "8K7KxJNo"

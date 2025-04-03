@@ -1,0 +1,13 @@
+name = "Squat Grow"
+filename = "squatgrow-fabric-21.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5JMdB5V/versions/vG7bCwlI/squatgrow-fabric-21.1.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ab6fea3d538f55768a536c6dd0da7054ddb92acf7f169e18a3bba26c7dec217da4cdf4b324beb0a0cb1ceae9000a9229b60dcb49d2f67b9506cd9082f25660f2"
+
+[update]
+[update.modrinth]
+mod-id = "b5JMdB5V"
+version = "vG7bCwlI"

@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-fabric-12.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uhpAh5FY/artifacts-fabric-12.1.2.jar"
+hash-format = "sha512"
+hash = "779e9f30af83a1839b5ebd02956d6c89e51af648136555c1841861d493b08aa14a79086a27020dfa29a37f9385ec5ed7a0a8024fcfd28b2f8d69f7638f40d251"
+
+[update]
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "uhpAh5FY"

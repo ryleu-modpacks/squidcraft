@@ -1,0 +1,13 @@
+name = "ramel"
+filename = "ramel-fabric-1.2.2+mc1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Uw92C2y/versions/WMraRzPE/ramel-fabric-1.2.2%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "c16c205aa582627240249a14bd82c61fad03bbe60b95c5b4a2fe01dd979146ee6290c85b297947f24ebd5ae94e249e7128de6d9e218000cb8c1b51906507776e"
+
+[update]
+[update.modrinth]
+mod-id = "4Uw92C2y"
+version = "WMraRzPE"

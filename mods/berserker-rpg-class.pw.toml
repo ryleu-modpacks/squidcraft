@@ -1,0 +1,13 @@
+name = "Berserker (More RPG Classes)"
+filename = "berserker-class-mod-2.4.1-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hqOZzxM/versions/DajXDscJ/berserker-class-mod-2.4.1-1.21.jar"
+hash-format = "sha512"
+hash = "cb53b2dedb57f556586bc6d359aa099494e7ea782ffec44498100d1ef293bde492c406d2ac5899a3fd1de447a8730da8136436181634e8f2705a002c56cf8bd4"
+
+[update]
+[update.modrinth]
+mod-id = "8hqOZzxM"
+version = "DajXDscJ"

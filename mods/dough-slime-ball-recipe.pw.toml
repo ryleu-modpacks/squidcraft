@@ -1,0 +1,13 @@
+name = "Dough Slime Ball Recipe"
+filename = "dough-slime-ball-recipe-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5akxKNeh/versions/NYSYVanQ/dough-slime-ball-recipe-1.0.jar"
+hash-format = "sha512"
+hash = "909e3080e014e883b4cc0a440dbdee77d4cb0216a178d1742c5ff7cb36457a737c664ee7a021802bf383987f02b6da32431a62013cb6f36384e6eccd4ca6d94a"
+
+[update]
+[update.modrinth]
+mod-id = "5akxKNeh"
+version = "NYSYVanQ"

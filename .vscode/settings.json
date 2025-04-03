@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.eol": "\n",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.formatOnSave": true
+    }
+}

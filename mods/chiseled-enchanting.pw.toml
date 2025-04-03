@@ -1,0 +1,13 @@
+name = "Chiseled Enchanting"
+filename = "chiseled-enchanting-0.1.6+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K23fxwUX/versions/pNgB3vhG/chiseled-enchanting-0.1.6%2B1.21.jar"
+hash-format = "sha512"
+hash = "a5381e7a81a7353d1928c0652f74c74219e48fc8e012b19ec0f458e829465f9d0f2d8cec46edbe44d999f58d77fe30c01c9c52e7c64bee9afcacda1323118854"
+
+[update]
+[update.modrinth]
+mod-id = "K23fxwUX"
+version = "pNgB3vhG"

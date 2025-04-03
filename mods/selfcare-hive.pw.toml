@@ -1,0 +1,13 @@
+name = "Self-Care Hive"
+filename = "selfcare-hive-1.0.3+1.20.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K5PtS1lI/versions/rotvo3CD/selfcare-hive-1.0.3%2B1.20.5.jar"
+hash-format = "sha512"
+hash = "9ffa1f0e1955257e75604e1aa1982d524621e7e12073f106fed7cbe1b1944ca644b2a73a2dc9eaceb2267745d2fde7eeb5a9a4601ea070b4d482f0bd7c706421"
+
+[update]
+[update.modrinth]
+mod-id = "K5PtS1lI"
+version = "rotvo3CD"

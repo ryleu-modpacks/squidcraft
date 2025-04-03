@@ -1,0 +1,13 @@
+name = "Red Panda"
+filename = "Red Panda-fabric-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QXBiNMjB/versions/jCOl5PPK/Red%20Panda-fabric-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "aa984b163526a1f007e025df0f1f99fbdda5818384f0fb3dad5b63382bc199a8c2c7e41a9268feba7840e134c59cb27a1dbdc635f6b741b1861414ee3a0b683c"
+
+[update]
+[update.modrinth]
+mod-id = "QXBiNMjB"
+version = "jCOl5PPK"
