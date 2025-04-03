@@ -1,6 +1,6 @@
 name = "Spice of Life: Discovery"
 filename = "soldisco-1.2.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z5skOi6f/versions/UMdN3XOu/soldisco-1.2.2.jar"

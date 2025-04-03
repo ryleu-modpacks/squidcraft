@@ -1,6 +1,6 @@
 name = "Underground Bunkers"
 filename = "UndergroundBunkers-1.0.4-1.21.x-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar"

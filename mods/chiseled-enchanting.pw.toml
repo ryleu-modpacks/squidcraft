@@ -1,6 +1,6 @@
 name = "Chiseled Enchanting"
 filename = "chiseled-enchanting-0.1.6+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K23fxwUX/versions/pNgB3vhG/chiseled-enchanting-0.1.6%2B1.21.jar"

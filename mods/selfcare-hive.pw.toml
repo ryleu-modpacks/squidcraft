@@ -1,6 +1,6 @@
 name = "Self-Care Hive"
 filename = "selfcare-hive-1.0.3+1.20.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K5PtS1lI/versions/rotvo3CD/selfcare-hive-1.0.3%2B1.20.5.jar"

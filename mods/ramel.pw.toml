@@ -1,6 +1,6 @@
 name = "ramel"
 filename = "ramel-fabric-1.2.2+mc1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4Uw92C2y/versions/WMraRzPE/ramel-fabric-1.2.2%2Bmc1.21.1.jar"

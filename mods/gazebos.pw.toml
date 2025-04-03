@@ -1,6 +1,6 @@
 name = "Gazebos (RPG Series)"
 filename = "gazebo-2.0.3+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XIpMGI6r/versions/M0LocXj4/gazebo-2.0.3%2B1.21.1.jar"
