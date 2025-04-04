@@ -35,6 +35,11 @@ hash = "0571e6baeadb2cba8fbcd5ad639b2877f5b2ec12d8d3ad67553ff2529c8d1856"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "75ffa3aa7d063a7c88ca56927b78a5dd2744e31c920575a1d5ba6252d2fa1ceb"
 metafile = true
