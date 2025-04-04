@@ -245,6 +245,11 @@ hash = "ba11b78037b753a49388485410fba94ec39e33638b4de876e00873953a14eba7"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ca7aaf32075a904c16620da9892290c28b10abba05673fa30781422393b02a6a"
+metafile = true
+
+[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "fb7ca1e14e16b3571021df0384a35ccc3c6dc2b0e57662a502438c59dc579dde"
 metafile = true
@@ -371,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender.pw.toml"
-hash = "bba8e3c0aacfdce33ff9eaf796d3b977e00169fb826fac206777316ab9a7f73c"
+hash = "102ba8a2224d3e076a6dc89efb49fd0421ee1ce5c11bd435ea079e817be48835"
 metafile = true
 
 [[files]]
