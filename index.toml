@@ -440,11 +440,6 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
-file = "mods/haunted-harvest.pw.toml"
-hash = "d64530478f8f2251a3925186defbc1d2fc2c88e2feb1368204c1df728a107749"
-metafile = true
-
-[[files]]
 file = "mods/horseshoes.pw.toml"
 hash = "77fd7c0c83e140998d78a0a7475d6884e0df8999edbc75bef0bc41b4022cda51"
 metafile = true
@@ -462,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
 metafile = true
 
 [[files]]
