@@ -855,11 +855,6 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
-file = "mods/spawnproof-villagers.pw.toml"
-hash = "118698c3106ba8682766d701dd1a8348ed7397d7b99bfe19e9348c11ca475e96"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "e4351f2b607a4dd8307d6e17254cf226a107b5fe09543939f0ce702b631b116f"
 metafile = true
