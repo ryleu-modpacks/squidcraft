@@ -220,6 +220,11 @@ hash = "9e4b0ceb36a6f4196e63fe739d6cc6c3fa036ec77fc5d38a999617504ca25f74"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
+hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "5f0092bcd918e81defabe478b8089088ec64b0f939e68ab573723bf9588988b0"
 metafile = true
@@ -237,11 +242,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
-metafile = true
-
-[[files]]
-file = "mods/defense.pw.toml"
-hash = "ba11b78037b753a49388485410fba94ec39e33638b4de876e00873953a14eba7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cosmetic Armor: Revitalized [FABRIC]"
+filename = "CosmeticArmor-1.21-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YcMzcZSi/versions/jbEqMuiy/CosmeticArmor-1.21-1.7.0.jar"
+hash-format = "sha512"
+hash = "10b15ab771730995e735f9ee8bf8ced3c7c5b69b8663afcacb3c204ce4aee94b3ae24fec40782f1eeccec0388d4df59b1b5b3cbd28ecf6dbadd446bdd244385e"
+
+[update]
+[update.modrinth]
+mod-id = "YcMzcZSi"
+version = "jbEqMuiy"
