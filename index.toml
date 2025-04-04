@@ -940,11 +940,6 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
-file = "mods/tonekomod.pw.toml"
-hash = "eea7a3c9fef7c68935b0303a9ef5f8fb12aef5f379848ed38d26aa654fb0f7fc"
-metafile = true
-
-[[files]]
 file = "mods/trailier-tales.pw.toml"
 hash = "d9269ab72b076181dd973af38fff925b2b754f17a3c38b219356b5bf770c8729"
 metafile = true
