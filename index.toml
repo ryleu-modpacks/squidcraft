@@ -875,6 +875,11 @@ hash = "52d13b06c0afecea632a5c7842367a84a15c6fc08a84e6cd4d64e29edab7a140"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/stacked-blocks-farmers-delight.pw.toml"
 hash = "bcb35cfdda260cf4f20566e89a3f2c8298cd5abda413d15c1bc3ec46b898810a"
 metafile = true
