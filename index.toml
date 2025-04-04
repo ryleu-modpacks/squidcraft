@@ -450,11 +450,6 @@ hash = "a963bee0a147ca9d2ebc87ee009db9aa505ceba3a9857d857168fd56d637cc7c"
 metafile = true
 
 [[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
-metafile = true
-
-[[files]]
 file = "mods/horseshoes.pw.toml"
 hash = "77fd7c0c83e140998d78a0a7475d6884e0df8999edbc75bef0bc41b4022cda51"
 metafile = true
@@ -690,13 +685,13 @@ hash = "93c5b81a82fffca423eaae73c4ebd729b8d644aad0e35eda39c287f9778fc9a3"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
+file = "mods/no-chat-reports.pw.toml"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -797,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
+file = "mods/rsls.pw.toml"
+hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
 metafile = true
 
 [[files]]
@@ -970,6 +970,11 @@ hash = "4853cf43eb56ffca7267fc6df362613a15a6d33fe1d4838d4b5c573bcae1cb22"
 metafile = true
 
 [[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "ab148de1834a9a6941323388408400dc159b1b62e8deddd0714da4c702a3beef"
+metafile = true
+
+[[files]]
 file = "mods/untitled-duck-mod.pw.toml"
 hash = "d31f84a141ac4eb296371169f1eb4f0aa10c87cc93dd14d07d832e54029a1463"
 metafile = true
@@ -1002,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "0872e0697edfd6cada47815488d210c623ef6ba6aba17cfd271b4faa4af54439"
 metafile = true
 
 [[files]]
