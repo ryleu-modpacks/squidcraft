@@ -970,11 +970,6 @@ hash = "4853cf43eb56ffca7267fc6df362613a15a6d33fe1d4838d4b5c573bcae1cb22"
 metafile = true
 
 [[files]]
-file = "mods/universal-sawmill.pw.toml"
-hash = "ab148de1834a9a6941323388408400dc159b1b62e8deddd0714da4c702a3beef"
-metafile = true
-
-[[files]]
 file = "mods/untitled-duck-mod.pw.toml"
 hash = "d31f84a141ac4eb296371169f1eb4f0aa10c87cc93dd14d07d832e54029a1463"
 metafile = true
