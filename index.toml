@@ -430,6 +430,11 @@ hash = "be4f4ba75d02aaa41bbe319abb944dd310ebf44b10d81248ba6d165a9543f72b"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f56578b8a2cf2de8d125e02262b7bcf0adcbc0498bf54886cee5e393689459f1"
+metafile = true
+
+[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "0984692d080056f053a6aa6c4e2220ed233c84de82e51e6f1200aedb1cb015f3"
 metafile = true
@@ -712,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "2df84d647350e90d2ef8b835d071b9708e9398723e42ce6a627dbe723f91d3f8"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
 metafile = true
 
 [[files]]
