@@ -950,11 +950,6 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
-file = "mods/trailier-tales.pw.toml"
-hash = "d9269ab72b076181dd973af38fff925b2b754f17a3c38b219356b5bf770c8729"
-metafile = true
-
-[[files]]
 file = "mods/trailtales-delight.pw.toml"
 hash = "5d303407e50de61e72bed85663e874b9891496f14869fa9f6db67185b7ac56c0"
 metafile = true
