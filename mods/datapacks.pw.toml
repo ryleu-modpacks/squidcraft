@@ -1,13 +1,13 @@
 name = "Global Datapacks"
-filename = "global-datapack-1.5.jar"
+filename = "global-datapack-1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/Ff4d32yW/global-datapack-1.5.jar"
+url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/pMkVoxd6/global-datapack-1.6.jar"
 hash-format = "sha512"
-hash = "fdd3144995eee15c373bfe4a21a60f689e48244dbf3db8acaa77eb565f94190a5ae928e8b00727b5a75102144904d9427d0cd39da78546f1ebd6dd776f31c350"
+hash = "5d591ffdd77d6d0e5f5fd84604ada6883491d7dbdf3a3092ba03a636b24fa713bc503aec45dceb77d4eac48eb9113422e71077e709763612d100f631005c9406"
 
 [update]
 [update.modrinth]
 mod-id = "bRa9yz7E"
-version = "Ff4d32yW"
+version = "pMkVoxd6"
