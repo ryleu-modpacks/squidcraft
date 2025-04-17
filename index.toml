@@ -380,11 +380,6 @@ hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
-metafile = true
-
-[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "102ba8a2224d3e076a6dc89efb49fd0421ee1ce5c11bd435ea079e817be48835"
 metafile = true
